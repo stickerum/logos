@@ -1,1 +1,1 @@
-![](./stickerum-logo-red.png)
+![](./stickerum-logo.svg)
