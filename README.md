@@ -1,0 +1,1 @@
+![](./stickerum-logo-red.png)
